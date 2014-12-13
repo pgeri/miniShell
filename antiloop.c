@@ -10,7 +10,8 @@
 #define COMMAND_SIZE 70
 #define CWD_SIZE 140
 #define MAX_PARAMETERS 5
- 
+
+#define handsome TRUE
 
 pid_t pid;
 
